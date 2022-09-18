@@ -287,7 +287,7 @@ ul#why1 li {
 
 
 /*################# PC View #################*/
-@media (min-width: 1000px) {
+@media (min-width: 1024px) {
     .navbar {
         height: 5rem;
         font: normal normal bold 12px/18px Poppins !important;
