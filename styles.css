@@ -1,10 +1,9 @@
 /* Mobile View */
-@media screen and(max-width: 1000px) {
+@media screen and(min-width: 1000px) {
 
     .navbar>.container-fluid {
         justify-content: flex-end !important;
     }
-
 
 
     .nav-link {
@@ -282,7 +281,7 @@ ul#why1 li {
     padding: 30px 10vw 0 10vw;
 }
 
-}
+
 
 
 
